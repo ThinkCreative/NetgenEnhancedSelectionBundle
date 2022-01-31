@@ -1,6 +1,6 @@
 {
-    "name": "netgen/enhanced-selection-bundle",
-    "description": "Netgen Enhanced Selection bundle for eZ Platform",
+    "name": "thinkcreative/enhanced-selection-bundle",
+    "description": "Fork - Netgen Enhanced Selection bundle for eZ Platform",
     "type": "ezplatform-bundle",
     "keywords": [
         "ezpublish",
